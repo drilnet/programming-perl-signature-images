@@ -7,9 +7,9 @@
 
 Примеры см. ниже (изображения были дополнительно пережаты в [Gimp](https://www.gimp.org).):
 
-![](https://github.com/drilnet/hobby/blob/programming-perl-signature-images/Example%201.png)
+![](https://github.com/drilnet/programming-perl-signature-images/blob/master/Example%201.png)
 
-![](https://github.com/drilnet/hobby/blob/programming-perl-signature-images/Example%202.png)
+![](https://github.com/drilnet/programming-perl-signature-images/blob/master/Example%202.png)
 
 Примеры изображений в высоком разрешении (оригиналы):
 <br>
