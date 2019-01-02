@@ -15,7 +15,7 @@
 <br>
 [Example 1 (High Quality).jpg](<https://github.com/drilnet/programming-perl-signature-images/blob/master/Example%201%20(High%20Quality).jpg>)
 <br>
-[Example 2 (<https://github.com/drilnet/programming-perl-signature-images/blob/master/Example%202%20(High%20Quality).jpg>)
+[Example 2 (High Quality).jpg](<https://github.com/drilnet/programming-perl-signature-images/blob/master/Example%202%20(High%20Quality).jpg>)
 
 _Примечание._
 <br>
