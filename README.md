@@ -1,5 +1,5 @@
 # hobby
-Лицензия: **FREE**.
+Лицензия: **Free**.
 
 ![](https://github.com/drilnet/programming-perl-signature-images/blob/master/UA.png)
 
