@@ -13,7 +13,7 @@
 
 Примеры изображений в высоком разрешении (оригиналы):
 <br>
-[Example 1 (High Quality).jpg](<https://github.com/drilnet/hobby/blob/programming-perl-signature-images/Example%201%20(High%20Quality).jpg>)
+[Example 1 (High Quality).jpg](<https://github.com/drilnet/programming-perl-signature-images/blob/master/Example%201%20(High%20Quality).jpg>)
 <br>
 [Example 2 (High Quality).jpg](<https://github.com/drilnet/hobby/blob/programming-perl-signature-images/Example%202%20(High%20Quality).jpg>)
 
