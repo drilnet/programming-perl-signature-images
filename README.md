@@ -25,4 +25,10 @@ _Рекомендуется посмотреть изображения в ар�
 <br>
 Скрипт написан на языке [Perl](http://www.perl.org).
 
+**Внимание!**
+<br>
+Сам **скрипт** находится в архиве:
+<br>
+**signature-images (version 1.0).7z.001**, **signature-images (version 1.0).7z.002**, **signature-images (version 1.0).7z.003**
+<br>
 Более подробно смотри [Wiki](https://github.com/drilnet/programming-perl-signature-images/wiki) 
