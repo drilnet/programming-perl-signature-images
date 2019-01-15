@@ -31,4 +31,27 @@ _Рекомендуется посмотреть изображения в ар�
 <br>
 **signature-images (version 1.0).7z.001**, **signature-images (version 1.0).7z.002**, **signature-images (version 1.0).7z.003**
 <br>
-Более подробно смотри [Wiki](https://github.com/drilnet/programming-perl-signature-images/wiki) 
+Более подробно о архиве смотри [Wiki](https://github.com/drilnet/programming-perl-signature-images/wiki) 
+
+<hr>
+
+**Дополнительные ссылки:**
+* Архиватор 7z: [https://www.7-zip.org/](https://www.7-zip.org/download.html)
+* Язык программирования Perl: [http://www.perl.org](http://www.perl.org)
+* Консольный графический редактор ImageMagick: [https://www.imagemagick.org](https://www.imagemagick.org)
+
+<hr>
+
+**Ещё репозитории автора:**
+
+**Репозиторий:** [Blender 3D. Модель игральной кости (dice).](https://github.com/drilnet/blender3d-dice2)
+<br>
+**Репозиторий:** [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
+<br>
+**Репозиторий:** [Ожившее кино. Вектор-06Ц.](https://github.com/drilnet/vector-06c-kino)
+
+<hr>
+
+**Полезные ссылки:**
+
+[Правила оформления файла README.MD на GITHUB](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md#SpecialSymbol)
