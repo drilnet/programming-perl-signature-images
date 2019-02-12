@@ -3,7 +3,7 @@
 
 ![](https://github.com/drilnet/programming-perl-signature-images/blob/master/UA.png)
 
-Скрипт который подписывает цифровые фотографии.
+Скрипт, который подписывает цифровые фотографии.
 
 Примеры см. ниже (изображения были дополнительно пережаты в [Gimp](https://www.gimp.org).):
 
