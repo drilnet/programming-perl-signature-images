@@ -35,7 +35,7 @@ _Рекомендуется посмотреть изображения в ар�
 <br>
 Сам **скрипт** находится в архиве:
 <br>
-**signature-images (version 1.0).7z.001**, **signature-images (version 1.0).7z.002**, **signature-images (version 1.0).7z.003**
+**signature-images (version 1.0).7z.001**, **signature-images (version 1.0).7z.002**, **signature-images (version 1.0).7z.003**.
 
 **Содержимое архива.**
 
