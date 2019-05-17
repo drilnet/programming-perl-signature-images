@@ -3,6 +3,8 @@
 
 <hr>
 
+### Скрипт, который показывает все цвета Вектор'а-06Ц. 
+
 Лицензия: **Free**.
 
 ![](https://github.com/drilnet/programming-perl-signature-images/blob/master/UA.png)
