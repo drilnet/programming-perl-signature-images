@@ -93,6 +93,8 @@ _Рекомендуется посмотреть изображения в ар�
 <br>
 **Репозиторий:** [Blender 3D. Disabled Person (анимированная иконка)](https://github.com/drilnet/blender3d-disabled-person)
 <br>
+**Репозиторий:** [Blender 3D. Флоппи диск 3.5"](https://github.com/drilnet/blender3d-floppy-disk-35)
+<br>
 <br>
 **Репозиторий:** [Вектор-06Ц. Ожившее кино](https://github.com/drilnet/vector-06c-kino)
 <br>
