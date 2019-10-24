@@ -38,6 +38,8 @@ _Рекомендуется посмотреть изображения в ар�
 Сам **скрипт** находится в архиве:
 <br>
 [signature-images (version 1.0).7z.001](https://github.com/drilnet/programming-perl-signature-images/blob/master/signature-images%20(version%201.0).7z.001), [signature-images (version 1.0).7z.002](https://github.com/drilnet/programming-perl-signature-images/blob/master/signature-images%20(version%201.0).7z.002), [signature-images (version 1.0).7z.003](https://github.com/drilnet/programming-perl-signature-images/blob/master/signature-images%20(version%201.0).7z.003)
+<br>
+Файлы с расширением **7z.001**, **7z.002**, **7z.003** можно распаковать с помощью архиватора [7-Zip](https://www.7-zip.org/download.html)!
 
 ### Содержимое архива.
 
