@@ -5,7 +5,7 @@
 
 ## Скрипт, который подписывает цифровые фотографии
 
-Лицензия: **Free**.
+Лицензия (License): **Free**.
 
 ![](https://github.com/drilnet/programming-perl-signature-images/blob/master/UA.png)
 
@@ -98,6 +98,8 @@ _Рекомендуется посмотреть изображения в ар�
 **Репозиторий:** [Blender 3D. Флоппи диск 3.5"](https://github.com/drilnet/blender3d-floppy-disk-35)
 <br>
 **Репозиторий:** [Blender 3D. Логотип VRLE8 и Логотип VRLE16](https://github.com/drilnet/blender3d-logovrle8-logovrle16)
+<br>
+**Репозиторий:** [Blender 3D. Микросхема TEA2025B в 3D](https://github.com/drilnet/blender3d-tea2025b)
 <br>
 <br>
 **Репозиторий:** [Вектор-06Ц. Ожившее кино](https://github.com/drilnet/vector-06c-kino)
