@@ -146,3 +146,11 @@ _Рекомендуется посмотреть изображения в ар�
 Написать мне можно на (**замечания**, **предложения**): stdls[ухо]mail.ru или bbarsinov[ухо]gmail.com
 <br>
 ![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(mini).gif "Человек с ограниченными возможностями")
+
+<hr>
+
+<div align="center">
+<a href="https://drilnet.github.io">
+<img src="https://github.com/drilnet/drilnet.github.io/blob/master/images/gotowebsite.gif" title="https://drilnet.github.io">
+</a>
+</div>
