@@ -19,9 +19,9 @@
 
 Примеры изображений в высоком разрешении (оригиналы):
 <br>
-[Example 1 (High Quality).jpg](https://github.com/drilnet/programming-perl-signature-images/raw/master/Example%201%20(High%20Quality)
+[Example 1 (High Quality).jpg](https://github.com/drilnet/programming-perl-signature-images/raw/master/Example%201%20(High%20Quality))
 <br>
-[Example 2 (High Quality).jpg](https://github.com/drilnet/programming-perl-signature-images/raw/master/Example%202%20(High%20Quality)
+[Example 2 (High Quality).jpg](https://github.com/drilnet/programming-perl-signature-images/raw/master/Example%202%20(High%20Quality))
 
 _Примечание._
 <br>
