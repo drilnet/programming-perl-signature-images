@@ -123,7 +123,7 @@ _Рекомендуется посмотреть изображения в ар�
 &nbsp;&nbsp;&nbsp;&bull; [Усилитель звука на микросхеме
  TEA2025B](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B "Схема, печатная плата, собранная плата")
 <br>
-&nbsp;&nbsp;&nbsp;&bull; [Биполярный транзистор в ключевом режиме (формулы, расчёты)](https://github.com/drilnet/electronics/tree/master/Bipolar%20transistor%20in%20key%20mode "Формат файлов: LibreOffice (odt), pdf, TinyCAD (dsn), LTspice XVII (asc), png")
+&nbsp;&nbsp;&nbsp;&bull; [Биполярный транзистор в ключевом режиме (формулы, расчёты)](https://github.com/drilnet/electronics/tree/master/Bipolar%20transistor%20in%20key%20mode "Формат файлов: LibreOffice (odt), pdf, TinyCAD (dsn), png, LTspice XVII (asc)")
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Ящик для экспонирования фоторезиста](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist "Ящик из подручного материала")
 <br>
