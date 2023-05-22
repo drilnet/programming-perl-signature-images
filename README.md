@@ -95,11 +95,11 @@ _Рекомендуется посмотреть изображения в ар�
 <br>
 **Репозиторий:** [Blender 3D. Disabled Person (анимированная иконка)](https://github.com/drilnet/blender3d-disabled-person)
 <br>
-**Репозиторий:** [Blender 3D. Флоппи-диск 3.5"](https://github.com/drilnet/blender3d-floppy-disk-35)
+**Репозиторий:** [Blender 3D. Флоппи-диск 3.5" (Вектор-06Ц)](https://github.com/drilnet/blender3d-floppy-disk-35)
 <br>
 **Репозиторий:** [Blender 3D. Логотип VRLE8 и Логотип VRLE16](https://github.com/drilnet/blender3d-logovrle8-logovrle16)
 <br>
-**Репозиторий:** [Blender 3D. Микросхема TEA2025B в 3D](https://github.com/drilnet/blender3d-tea2025b)
+**Репозиторий:** [Blender 3D. Микросхема TEA2025B в 3D, плюс модель печатной платы](https://github.com/drilnet/blender3d-tea2025b)
 <br>
 <br>
 **Репозиторий:** [Вектор-06Ц. Ожившее кино](https://github.com/drilnet/vector-06c-kino "Конвертирующие скрипты написаны на Perl")
