@@ -133,6 +133,8 @@ _Рекомендуется посмотреть изображения в ар�
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Стабилизированный блок питания +5В/1А, -5В/0.3A, +12В/0.5А, -12В/0.5А](https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V "Трансформаторный (используемые микросхемы: L7805CV, L7905CV, L7812CV, L7912CV)")
 <br>
+&nbsp;&nbsp;&nbsp;&bull; [Стабилизированный блок питания +9В/0.5А для TEA2025B](https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B9V%20for%20TEA2025B "Трансформаторный (используется микросхема: L7809CV)")
+<br>
 &nbsp;&nbsp;&nbsp;&bull; [Ремонт компьютерных колонок Genius SP-G06](https://github.com/drilnet/electronics/tree/master/Speakers%20Genius%20SP-G06 "Что было и Что стало")
  
  **Репозиторий:** [Интеллект. Искусственный интеллект](https://github.com/drilnet/Intelligence "Intelligence. Artificial Intelligence")
